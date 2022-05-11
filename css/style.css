@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header */
+header{
+    background-color: rgb(255,105,0);
+    margin: 0 auto;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.banner-header{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    padding: 10px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.banner-header a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+}
+
+#logo{
+    color: white;
+    padding: 10px;
+    width: 150px;
+}
+
+.icon{
+    color: white;
+}
+
+
